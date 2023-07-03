@@ -1,0 +1,15 @@
+git add .
+git commit -m ""
+git push
+
+PARA DESCARGAR DE LA NUBE
+
+git pull
+
+
+
+
+"git add ." agrega todos los archivos que guardes o modifiques
+"git commit -m "" " guarda los archivos que agregaste en tu computadora
+"git push" guarda los archivos en la nube
+"git pull" descarga los cambios hechos en la nube
